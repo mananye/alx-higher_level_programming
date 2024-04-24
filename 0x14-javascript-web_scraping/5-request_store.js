@@ -1,3 +1,4 @@
+#!/usr/bin/node
 t request = require('request');
 const fs = require('fs');
 
